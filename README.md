@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dohoon's%20GitHubfontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Dohoon's%20GitHub&fontSize=90)
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=40&section=footer)
 
 <div align='center'>
