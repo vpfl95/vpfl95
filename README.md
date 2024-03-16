@@ -6,7 +6,7 @@
 
 </div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpfl95)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
@@ -23,3 +23,5 @@
 
 </p>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpfl95)](https://github.com/anuraghazra/github-readme-stats)
