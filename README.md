@@ -25,5 +25,5 @@
 
 <hr>
 <p align="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpfl95&layout=compact)](https://github.com/깃허브아이디/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vpfl95&layout=compact)](https://github.com/vpfl95/github-readme-stats)
 </p>
